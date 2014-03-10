@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "deptDesc": "信息平台事业部-统一ID-BUC",
+            "empId": "67871",
+            "lastName": "沙先伟",
+            "nickName": "七斤",
+            "userId": 238523,
+            "value": "沙先伟@67871"
+        },
+        {
+            "deptDesc": "信息平台事业部-统一ID-BUC",
+            "empId": "67654",
+            "lastName": "李斌",
+            "nickName": "冰梨",
+            "userId": 238523,
+            "value": "李斌@67654"
+        },
+        {
+            "deptDesc": "信息平台事业部-统一ID-BUC",
+            "empId": "67651",
+            "lastName": "李斌2",
+            "nickName": "冰梨2",
+            "userId": 238524,
+            "value": "李斌2@67651"
+        },
+        {
+            "deptDesc": "信息平台事业部-统一ID-BUC",
+            "empId": "67656",
+            "lastName": "李斌3",
+            "nickName": "冰梨3",
+            "userId": 238527,
+            "value": "李斌3@67658"
+        }        
+    ]
+}

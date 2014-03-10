@@ -1,0 +1,63 @@
+/*! define aliscript/autocomplete/1.0.4/autocomplete-debug.css */
+/* aliscript.autocomplete style module */
+
+.ali-autocomplete-cont {
+    vertical-align: middle;
+    height: auto !important;
+    z-index: 99999;
+}
+
+.ali-autocomplete-choises{
+    height: auto !important;
+    height: 1%;
+    margin: 0;
+    padding: 0;
+    cursor: text;
+    overflow: hidden;
+}
+
+.ali-autocomplete-choise{
+    float: left;
+    list-style: none;
+    padding: 0 8px;
+    margin: 4px 4px 0 4px;
+    position: relative;
+    line-height: 22px;
+    height: 22px;
+    color: #323232;
+    cursor: default;
+    background-clip: padding-box;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: #ccebfc;
+    font-size: 14px;
+}
+.ali-autocomplete-choise span{}
+.ali-autocomplete-choise .ali-autocomplete-remove{
+    margin-left: 8px;
+    color: #709bb2;
+    font-weight: bold;
+}
+
+.ali-autocomplete-field{
+    float: left;
+    line-height: 22px;
+    height: 22px;
+    margin: 3px;
+}
+
+.ali-autocomplete-field input{
+    width: 40px;
+    line-height: 22px;
+    font-family: sans-serif;
+    font-size: 100%;
+    color: #666;
+    outline: 0;
+    border: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background: transparent !important;
+}
